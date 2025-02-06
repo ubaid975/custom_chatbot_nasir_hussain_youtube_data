@@ -1,0 +1,6 @@
+chromadb
+langchain
+langchain_community
+gradio
+langchain_groq
+sentence-transformers
